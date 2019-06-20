@@ -1,1 +1,1 @@
-# my-proj
+# our-project
