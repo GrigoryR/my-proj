@@ -26,7 +26,15 @@ PropertyManager shall provide the following capabilities:
 3.4. upload image or pdf of tenant's ssn
 3.5. upload image or pdf of tenant's passport if ssn and/or driver's license are not available.
 3.6. archive tenant's information after specified move out date.
-
+d
 4. Payments:
+4.1. add a new payment amount
+4.2. generate a printable receipt
+4.3 edit payment details
+4.4. archive an old payment
 
 5. Expenses:
+5.1. agree upon expenses
+5.2. upload quotes for expenses
+5.3. enter a new expense into the system and save it
+5.4. edit/update an expense
