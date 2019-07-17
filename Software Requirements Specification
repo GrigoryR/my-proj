@@ -26,7 +26,7 @@ PropertyManager shall provide the following capabilities:
 3.4. upload image or pdf of tenant's ssn
 3.5. upload image or pdf of tenant's passport if ssn and/or driver's license are not available.
 3.6. archive tenant's information after specified move out date.
-d
+
 4. Payments:
 4.1. add a new payment amount
 4.2. generate a printable receipt
@@ -44,3 +44,9 @@ d
 6.2. Generate payments report by date range
 6.3. Generate list of tenants by date range
 6.4. Generate report of maintenance items by date range
+
+7. Admin
+7.1. There shall be a mechanism to enter a new Lease Agreement into the system
+7.2. There shall be a mechanism to update an existing Lease Agreement
+7.3. Generate printable view of Lease Agreement.
+7.4. Electronically sign the Lease Agreement.
