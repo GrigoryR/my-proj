@@ -1,9 +1,9 @@
 class Apartment(House): #Apartment inherits from House
     def __init__(self, pID, aptNo, rent, isVacant = False):
-        self.pID = pID
-        self.aptNo = aptNo
-        self.rent = rent
-        self.isVacant = isVacant
+        self._pID = pID
+        self._aptNo = aptNo
+        self._rent = rent
+        self._isVacant = isVacant
         
     @property
     def pID(self):
