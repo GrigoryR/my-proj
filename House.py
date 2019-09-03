@@ -1,11 +1,11 @@
 class House:
     def __init__(self, pID, pStreetAddr, pCity = "Philadelphia", pState = "PA", pZip, pAptCount):
-        self.pID = pID
-        self.pAptCount = pAptCount
-        self.pCity = pCity
-        self.pState = pState
-        self.pStreetAddr = pStreetAddr
-        self.pZip = pZip
+        self._pID = pID
+        self._pAptCount = pAptCount
+        self._pCity = pCity
+        self._pState = pState
+        self._pStreetAddr = pStreetAddr
+        self._pZip = pZip
     @property
     def p(self):
         return self._p
